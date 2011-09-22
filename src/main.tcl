@@ -230,7 +230,7 @@ Command-line arguments (in any order):
 --debug     : Enable debug messages and lowered health for quicker battles.
 --gui       : Use GUI; useful in combination with robot files.
 --help      : Show this help.
---msg       : Disable robot messages.
+--nomsg     : Disable robot messages.
 --n <N>     : Run N number of battles.
 --o <FILE>  : Set results output file.
 --seed <S>  : Start with random seed S to replay a specific battle.
